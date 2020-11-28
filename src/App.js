@@ -8,9 +8,7 @@ function App() {
           Hello from Santosh!
         </h2>
         <p>
-          I am very upset that you did not join me for tea today. 
-          </p>
-        <p>If you really wanna make up for this. Come meet me here,
+          I am glad that you came!
         </p>
         <a
           className="App-link"
