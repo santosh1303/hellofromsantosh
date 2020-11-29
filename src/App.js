@@ -10,7 +10,10 @@ function App() {
         <p>
           I am glad that you came!
         </p>
-        <a
+    
+    <h2>location</h2>    
+    
+    <a
           className="App-link"
           href="https://goo.gl/maps/z3CCnnk8TV88owVH7"
           target="_blank"
