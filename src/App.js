@@ -15,9 +15,7 @@ function App() {
           href="https://goo.gl/maps/z3CCnnk8TV88owVH7"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Location
-        </a>
+        >Location</a>
       </header>
     </div>
   );
